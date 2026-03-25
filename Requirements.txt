@@ -2,5 +2,3 @@ pytest
 selenium
 pytest-xdist
 pytest-html
-allure-pytest
-python-dotenv
